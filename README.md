@@ -1,3 +1,2 @@
 # myweb
-my new website
-designed my website
+Designed my new website of portfolio
